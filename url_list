@@ -14,8 +14,8 @@
         {
             "frontendUrl": "https://www.barnsley.gov.uk/services/roads-travel-and-parking/roadworks-and-road-maintenance/roadworks/",
             "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17183",
-            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/media/media/edit/11386"],
-            "media": []
+            "accordions": [],
+            "media": ["https://www.barnsley.gov.uk/umbraco/#/media/media/edit/11386"]
         },
         {
             "frontendUrl": "https://www.barnsley.gov.uk/services/libraries/library-activities-and-events/events-at-our-libraries/",
