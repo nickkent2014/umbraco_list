@@ -90,9 +90,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/health-and-wellbeing/children-young-people-and-families/healthy-holidays/healthy-holidays-clubs/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18536",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19439"],
             "media": []
         },
         {
