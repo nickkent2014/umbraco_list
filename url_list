@@ -74,55 +74,55 @@
         {
             "frontendUrl": "https://www.barnsley.gov.uk/services/children-families-and-education/childcare-nurseries-and-family-support/family-hubs/",
             "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17347",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "https://www.barnsley.gov.uk/services/roads-travel-and-parking/traffic-lights-road-signs-and-markings/road-signs-and-markings/",
             "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17967",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "https://www.barnsley.gov.uk/services/accessibility/british-sign-language-bsl/",
             "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16022",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         },
         {
             "frontendUrl": "",
             "backendUrl": "",
-            "accordions": [""],
+            "accordions": [],
             "media": []
         }
     ]
