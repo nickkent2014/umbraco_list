@@ -88,5 +88,11 @@
             "backendUrl": "",
             "accordions": [""],
             "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [""],
+            "media": []
         }
     ]
