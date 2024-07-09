@@ -102,9 +102,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/business-rates/business-rates-reductions-and-reliefs/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/15952",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16855"],
             "media": []
         },
         {
