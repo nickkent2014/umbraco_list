@@ -126,9 +126,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/our-council/barnsley-2030/pathways-to-work-commission/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17866",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19019","https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19034"],
             "media": []
         },
         {
