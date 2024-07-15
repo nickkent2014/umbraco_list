@@ -120,6 +120,66 @@
             "media": []
         },
         {
+            "frontendUrl": "https://www.barnsley.gov.uk/services/benefits/more-money-in-your-pocket-cost-of-living-support/household-support-fund/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17334",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19165"],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
+            "frontendUrl": "",
+            "backendUrl": "",
+            "accordions": [],
+            "media": []
+        },
+        {
             "frontendUrl": "",
             "backendUrl": "",
             "accordions": [],
