@@ -132,10 +132,10 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
-            "media": []
+            "frontendUrl": "https://www.barnsley.gov.uk/services/housing/housing-strategies/housing-strategy/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16839",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/20501","https://www.barnsley.gov.uk/umbraco/#/content/content/edit/20506"],
+            "media": ["https://www.barnsley.gov.uk/umbraco/#/media/media/edit/22977"]
         },
         {
             "frontendUrl": "",
