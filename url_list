@@ -144,8 +144,8 @@
             "media": ["https://www.barnsley.gov.uk/umbraco/#/media/media/edit/22977"]
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
+            "frontendUrl": "https://www.barnsley.gov.uk/services/births-deaths-and-marriages/deaths-and-funerals/using-the-tell-us-once-service/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17750",
             "accordions": [],
             "media": []
         },
