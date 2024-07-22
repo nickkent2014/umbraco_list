@@ -186,9 +186,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/parks-and-green-spaces/management-and-maintenance-of-our-green-spaces/grass-cutting/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16787",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18149","https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18183"],
             "media": []
         },
         {
