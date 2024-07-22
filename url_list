@@ -174,15 +174,15 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/bscp",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18826",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19468"],
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/children-families-and-education/safeguarding-families-in-barnsley/safeguarding-children-in-barnsley/barnsley-safeguarding-children-partnership/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18826",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/19468"],
             "media": []
         },
         {
