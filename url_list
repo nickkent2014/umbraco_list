@@ -198,9 +198,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/housing/private-landlords/houses-in-multiple-occupation-hmo/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16815",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17665", "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18100"],
             "media": []
         },
         {
