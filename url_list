@@ -192,9 +192,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/community-and-volunteering/age-friendly-barnsley/take-a-seat-barnsley/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17213",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17810"],
             "media": []
         },
         {
