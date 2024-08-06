@@ -222,9 +222,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/museums-and-galleries/apply-to-hold-your-exhibition-at-barnsley-museums/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16270",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16754"],
             "media": []
         },
         {
