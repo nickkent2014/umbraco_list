@@ -216,9 +216,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/housing/empty-homes/advice-if-you-own-an-empty-home/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16762",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17701"],
             "media": []
         },
         {
