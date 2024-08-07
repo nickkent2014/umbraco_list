@@ -228,9 +228,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/adult-social-care/better-lives-programme/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16093",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18115"],
             "media": []
         },
         {
