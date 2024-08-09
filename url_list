@@ -240,9 +240,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/housing/private-landlords/help-to-let-and-manage-your-rental-property/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17305",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18028"],
             "media": []
         },
         {
