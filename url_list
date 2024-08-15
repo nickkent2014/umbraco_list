@@ -270,9 +270,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/sport-and-leisure/football-venues-and-pitch-bookings/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco#/content/content/edit/16073",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco#/content/content/edit/17011"],
             "media": []
         },
         {
