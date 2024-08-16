@@ -276,15 +276,15 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/dearnevalleybypass",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17720",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/20911"],
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/roads-travel-and-parking/roadworks-and-road-maintenance/a635-goldthorpe-bypass-closure/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17720",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/20911"],
             "media": []
         },
         {
