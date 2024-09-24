@@ -348,15 +348,15 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/adult-skills-and-community-learning/english-for-speakers-of-other-languages-esol/english-for-speakers-of-other-languages-esol-pre-entry/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17453",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18824"],
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/adult-skills-and-community-learning/english-for-speakers-of-other-languages-esol/english-for-speakers-of-other-languages-esol-entry-levels-1-2-and-3/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17556",
+            "accordions": ["ESOL Entry Levels 1, 2 and 3"],
             "media": []
         },
         {
