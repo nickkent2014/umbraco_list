@@ -384,14 +384,14 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/contact-us/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/15097",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/18044"],
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
+            "frontendUrl": "https://www.barnsley.gov.uk/services/bins-rubbish-and-recycling/putting-your-bin-out-for-collection/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/15984",
             "accordions": [],
             "media": []
         },
