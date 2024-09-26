@@ -378,9 +378,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/planning-and-buildings/using-planning-explorer/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16315",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17529"],
             "media": []
         },
         {
