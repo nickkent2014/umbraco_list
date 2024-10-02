@@ -414,9 +414,9 @@
             "media": []
         },
         {
-            "frontendUrl": "",
-            "backendUrl": "",
-            "accordions": [],
+            "frontendUrl": "https://www.barnsley.gov.uk/services/community-safety-and-crime/joining-forces/",
+            "backendUrl": "https://www.barnsley.gov.uk/umbraco/#/content/content/edit/16428",
+            "accordions": ["https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17891","https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17397","https://www.barnsley.gov.uk/umbraco/#/content/content/edit/17990"],
             "media": []
         },
         {
